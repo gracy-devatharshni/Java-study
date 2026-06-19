@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "charcount",
+            "request": "launch",
+            "mainClass": "charcount",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "java",
+            "name": "rotate",
+            "request": "launch",
+            "mainClass": "rotate",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "java",
+            "name": "series",
+            "request": "launch",
+            "mainClass": "series",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "java",
+            "name": "multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "java",
+            "name": "removeduplicates",
+            "request": "launch",
+            "mainClass": "removeduplicates",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "java",
+            "name": "combination",
+            "request": "launch",
+            "mainClass": "combination",
+            "projectName": "c_e0ad5853"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
